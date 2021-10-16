@@ -15,3 +15,13 @@
 a:hover{
     color: rgb(166, 240, 147);
 }
+.soshial {
+    flex: 2;
+}
+.soshial__menu {
+    display: flex;
+    justify-content: space-between;
+}
+.sohial__el {
+    list-style: none;
+}
