@@ -1,0 +1,17 @@
+.section__footer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background: #001821;
+}
+.footer {
+    width: 80%;
+    height: 14vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+a:hover{
+    color: rgb(166, 240, 147);
+}
